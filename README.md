@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Oregon State University Capstone Project</b>
+- <b>Oregon State University - Capstone Project</b>
   - [Self Driving Algorithm Testing 3D Framework](https://github.com/sahilg2000/ESGDT)
   - [Self Driving Algorithm Testing Web Framework](https://github.com/sahilg2000/ESGDT-server)
-- <b>Full Stack Web App (React, NodeJS)</b>
+- <b>Full Stack Web Apps (React, NodeJS)</b>
   - [Macro and Calorie Counter](https://github.com/sahilg2000/BasicMacroOnline)
+  - [Web Based Mouse Analytics - Scripts & Dashboard](https://github.com/sahilg2000/simple-react-analytics)
 - <b>Front-End Web App Games</b>
   - [Island Visualizer](https://github.com/sahilg2000/Island-Grid)
 - <b>Python Password Checking Bloom Filter</b>
   - [Basic Bloom Filter](https://github.com/sahilg2000/BasicBloomFilter)
-
 
 <h2> 🤳 Connect with me:</h2>
 
