@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sahil! <br/><a href="https://github.com/sahilg2000">Programmer</a>, <a href="https://www.linkedin.com/in/sahilgaikwad/">Computer Science Student</a>
+<h1>Hi, I'm Sahil! <br/><a href="https://www.linkedin.com/in/sahilgaikwad/"> Programmer, Software Engineer</a>
 
 <h2>🛠️ Tech Stack & Skills:</h2>
 
