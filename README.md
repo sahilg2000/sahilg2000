@@ -13,7 +13,7 @@
   - [Self Driving Algorithm Testing 3D Framework](https://github.com/sahilg2000/ESGDT)
   - [Self Driving Algorithm Testing Web Framework](https://github.com/sahilg2000/ESGDT-server)
 - <b>Full Stack Web Apps</b>
-  - [Kanban Board](https://kanban-board-psi-one.vercel.app/)
+  - [Kanban Board](https://sahils-kanban.vercel.app/)
         - Test Login: username `test@email.com`, password `passwordpassword`
   - [Macro and Calorie Counter](https://github.com/sahilg2000/BasicMacroOnline)
   - [Web Based Mouse Analytics - Scripts & Dashboard](https://github.com/sahilg2000/simple-react-analytics)
