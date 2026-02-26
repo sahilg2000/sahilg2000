@@ -14,7 +14,7 @@
   - [Self Driving Algorithm Testing Web Framework](https://github.com/sahilg2000/ESGDT-server)
 - <b>Full Stack Web Apps</b>
   - [Kanban Board](https://sahils-kanban.vercel.app/)
-        - Test Login: username `test@email.com`, password `passwordpassword`
+        - Live Application! A minimalistic task tracker that you can use. Mobile Webapp coming soon! Message me on Discord or LinkedIn if you would like a test account
   - [Macro and Calorie Counter](https://github.com/sahilg2000/BasicMacroOnline)
   - [Web Based Mouse Analytics - Scripts & Dashboard](https://github.com/sahilg2000/simple-react-analytics)
 - <b>Front-End Web App Games</b>
