@@ -17,6 +17,8 @@
         - Live Application! A minimalistic task tracker that you can use. Mobile Webapp coming soon! Message me on Discord or LinkedIn if you would like a test account
   - [Macro and Calorie Counter](https://github.com/sahilg2000/BasicMacroOnline)
   - [Web Based Mouse Analytics - Scripts & Dashboard](https://github.com/sahilg2000/simple-react-analytics)
+- <b>Discord Bots</b>
+  - [Milpi](https://github.com/sahilg2000/Milpi) - A Discord Bot that scrapes Dungeons and Dragons events from Milpitas Library
 - <b>Front-End Web App Games</b>
   - [Island Visualizer](https://github.com/sahilg2000/Island-Grid)
 - <b>Python Password Checking Bloom Filter</b>
