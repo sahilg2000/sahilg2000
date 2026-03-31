@@ -18,7 +18,7 @@
   - [Macro and Calorie Counter](https://github.com/sahilg2000/BasicMacroOnline)
   - [Web Based Mouse Analytics - Scripts & Dashboard](https://github.com/sahilg2000/simple-react-analytics)
 - <b>Discord Bots</b>
-  - [Milpi](https://github.com/sahilg2000/Milpi) - A Discord Bot that scrapes Dungeons and Dragons events from Milpitas Library
+  - [Milpi](https://github.com/sahilg2000/Milpi) - A Discord Bot that scrapes Dungeons and Dragons events from Milpitas Library (Discord Install - Currently supports Guild Install Only)[https://discord.com/oauth2/authorize?client_id=1488316978123902998]
 - <b>Front-End Web App Games</b>
   - [Island Visualizer](https://github.com/sahilg2000/Island-Grid)
 - <b>Python Password Checking Bloom Filter</b>
